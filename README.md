@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | 13 years of proven experience in Ruby on Rails • MERN • Laravel | FinTech • HealthCare • EdTech • Travel • SaaS
+Senior Full-Stack Developer | React, Next.js, Node.js, Ruby on Rails
 
 # 💻 Tech Stack:
 ## Backend:
