@@ -1,5 +1,8 @@
 # 💫 About Me:
-Senior Full-Stack Developer | React, Next.js, Node.js, Ruby on Rails
+I’m Fahad, a Senior Full-Stack & Backend Developer specializing in 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐍𝐞𝐬𝐭.𝐣𝐬, 𝐏𝐇𝐏, 𝐋𝐚𝐫𝐚𝐯𝐞𝐥, 𝐚𝐧𝐝 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬. I design and build scalable SaaS platforms, secure FinTech applications, and enterprise-grade HealthTech systems.
+
+With 13+ years of experience, I’ve delivered 57+ high-performance applications that are fast, reliable, and trusted by thousands of users worldwide.
+
 
 # 💻 Tech Stack:
 ## Backend:
